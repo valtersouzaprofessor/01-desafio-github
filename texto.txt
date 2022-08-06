@@ -1,0 +1,24 @@
+Baixar o typora - editor de mardown
+control + l = limpa a tela
+
+ls = lista os arquivos
+cd pasta/ = entra na pasta
+cd .. = volta para pasta acima
+mdkir pasta = cria pasta
+ls -a = visualizaçãod e pasta ocultas
+
+git config -- global user.email "valtersouzaprofessor@gmail.com"
+
+git config -- global user.name "valtersouzaprofessor"
+
+
+
+git int = versaliza a pasta 
+
+git add . = adiciona o arquivo ao local
+
+git commit -m"mensagem" =adiciona
+
+git status =mostra o status da pasta
+
+git push origem main = envia todo os commits para a nuvem
